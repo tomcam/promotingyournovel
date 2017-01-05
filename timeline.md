@@ -10,6 +10,10 @@ If you choose to use KDP Select it should be your first stop on the publishing t
 That means you should at least spend some time learning how these communities work.
 Otherwise, you'll hurt yourself by coming off as clueless and purely self-promoting.
 
+<div class="chart-container">
+  <div id="timeline"></div>
+</div>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/labella/1.1.2/labella.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.4.0/d3.min.js"></script>
 <script type="text/javascript">
