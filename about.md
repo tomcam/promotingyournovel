@@ -19,4 +19,4 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 ## Created using
 
 * Timeline: [vis.js](http://visjs.org/docs/timeline/)
-* Jekyll: [Minimal configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+* Jekyll: [Minimal configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/), [Pages](https://jekyllrb.com/docs/pages/), [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
