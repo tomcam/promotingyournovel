@@ -8,5 +8,6 @@ Now what? This site's purpose is to help make your book famous, spending as litt
 
 [Contact](contact.md) [About](about.md) [FAQ](faq.md)
 
+{% include footer.html %}
 
 
