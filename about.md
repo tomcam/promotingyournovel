@@ -1,3 +1,7 @@
+---
+title: About
+layout: post
+---
 # About PromotingYourNovel.com
 
 You've written your novel. 
