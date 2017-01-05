@@ -2,6 +2,8 @@
 
 ## Without selling your soul or spending a fortune
 
+![](images/promoting-your-novel-red.png]
+
 You've written your novel. 
 You're going to self-publish online, 
 probably using [Kindle Direct Publishing](https://kdp.amazon.com), [CreateSpace](https://www.createspace.com), or [SmashWords](https://www.smashwords.com).
