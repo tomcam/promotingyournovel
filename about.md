@@ -12,3 +12,6 @@ It's an opinionated guide, meaning it makes a lot of decisions for you. I assume
 writing than reinventing the wheel by revisiting whether SmashWords is better than Kobo or whatever.
 
 
+## Created using
+
+Timeline: [vis.js](http://visjs.org/docs/timeline/)
