@@ -15,4 +15,11 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 ## Created using
 
 * Timeline: [vis.js](http://visjs.org/docs/timeline/)
-* Jekyll: [Minimal configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) [Pages](https://jekyllrb.com/docs/pages/) [Templates](https://jekyllrb.com/docs/templates/) [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
+
+### GitHub pages
+* [Basics](https://help.github.com/categories/github-pages-basics/)
+* [Pages](https://jekyllrb.com/docs/pages/) 
+* [Templates](https://jekyllrb.com/docs/templates/) 
+* [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
+* [Minimal configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) 
+* [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
