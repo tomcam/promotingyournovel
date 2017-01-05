@@ -1,4 +1,9 @@
 
+---
+title: Promoting Your Novel - Home
+layout: post
+---
+
 # Promoting your novel
 
 You've written your novel. 
