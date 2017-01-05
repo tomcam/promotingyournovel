@@ -10,6 +10,8 @@ If you choose to use KDP Select it should be your first stop on the publishing t
 That means you should at least spend some time learning how these communities work.
 Otherwise, you'll hurt yourself by coming off as clueless and purely self-promoting.
 
+## I wish my timeline were here!
+
 <div class="chart-container">
   <div id="timeline"></div>
 </div>
