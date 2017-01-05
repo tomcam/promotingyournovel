@@ -17,6 +17,14 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 * [PureCSS](http://purecss.io)
 * Timeline: [vis.js](http://visjs.org/docs/timeline/)
 
+# Pattern interrupt!
+
+The above is an H1
+
+## Kramdown
+* [Quick Reference](https://kramdown.gettalong.org/)
+* [Syntax](https://kramdown.gettalong.org/syntax.html)
+
 ### GitHub pages
 * [Basics](https://help.github.com/categories/github-pages-basics/)
 * [Pages](https://jekyllrb.com/docs/pages/) 
