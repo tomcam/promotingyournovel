@@ -16,6 +16,7 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 
 * [PureCSS](http://purecss.io), [source](https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.1/pure.css)
 * Timeline: [vis.js](http://visjs.org/docs/timeline/)
+* Pingdom [Website speed test](https://tools.pingdom.com/)
 
 # Pattern interrupt!
 
