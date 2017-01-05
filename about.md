@@ -20,6 +20,7 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 * [Basics](https://help.github.com/categories/github-pages-basics/)
 * [Pages](https://jekyllrb.com/docs/pages/) 
 * [Templates](https://jekyllrb.com/docs/templates/) 
+* [Variables](https://jekyllrb.com/docs/variables/)
 * [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
 * [Minimal configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) 
 * [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
