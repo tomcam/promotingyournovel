@@ -29,10 +29,10 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
 
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
-    {id: 1, content: 'Finish novel', start: '2017-01-01'},
-    {id: 2, content: 'Proofread', start: '2017-01-02'},
-    {id: 3, content: 'Press release', start: '2017-01-03' }
-
+    {id: 1, content: 'Finish novel', start: '2017-01-01', end: '2017-01-01'},
+    {id: 2, content: 'Proofread', start: '2017-01-02', end: '2017-01-02'},
+    {id: 3, content: 'Press release', start: '2017-01-03' },
+    {id: 4, content: 'Tweet 1-3 times/week', start: '2017-01-01', end: '2017-01-30' }
     /*
     {id: 1, content: 'Finish novel', start: y + '-' + m + '-' + d },
     {id: 2, content: 'Proofread', start: y + '-' + m + '-' + (d + 1) },
