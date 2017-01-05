@@ -14,6 +14,7 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 
 ## Created using
 
+* [PureCSS](http://purecss.io)
 * Timeline: [vis.js](http://visjs.org/docs/timeline/)
 
 ### GitHub pages
