@@ -1,4 +1,4 @@
-# About PromotingYourNovel.com
+# About PromotingYourNovel.com aka {{ page.title }}
 
 You've written your novel. 
 You're going to self-publish ([why self-publish?](faq#why-self-publish)),
