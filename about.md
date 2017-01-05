@@ -14,7 +14,7 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 
 ## Created using
 
-* [PureCSS](http://purecss.io)
+* [PureCSS](http://purecss.io), [source](https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.1/pure.css)
 * Timeline: [vis.js](http://visjs.org/docs/timeline/)
 
 # Pattern interrupt!
