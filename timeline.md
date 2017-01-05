@@ -1,6 +1,3 @@
-
-
-
 # Timeline -- What to do in what order
 
 The order you do things is important. For example:
