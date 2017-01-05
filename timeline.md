@@ -31,7 +31,7 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
   var items = new vis.DataSet([
     {id: 1, content: 'Finish novel', start: y + '-' + m + '-' + d },
     {id: 2, content: 'Proofread', start: y + '-' + m + '-' + (d + 1) },
-    {id: 2, content: 'Press release', start: y + '-' + m + '-' + (d + 2) }
+    {id: 3, content: 'Press release', start: y + '-' + m + '-' + (d + 2) }
 
     /*
     {id: 2, content: 'item 2', start: y + '-' + m + '-' + d },
