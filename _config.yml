@@ -1,5 +1,6 @@
 theme: jekyll-theme-modernist
 
-# Generate sitemaps automatically
+
 gems:
-  - jekyll-sitemap
+  - jekyll-sitemap                  # Generate sitemaps automatically
+  - jekyll-feed                     # Generate RSS feed automatically
