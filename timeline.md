@@ -10,7 +10,7 @@ If you choose to use KDP Select it should be your first stop on the publishing t
 That means you should at least spend some time learning how these communities work.
 Otherwise, you'll hurt yourself by coming off as clueless and purely self-promoting.
 
-## Vis.js timeline test
+## Click to learn more about any step
 <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.17.0/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css" />
 
 <script
@@ -30,7 +30,7 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
     {id: 1, content: 'Finish novel',          start: '2017-01-01'},
-    {id: 2, content: 'Proofread',             start: '2017-01-02'},
+    {id: 2, content: '<a href="about">Proofread</a>',             start: '2017-01-02'},
     {id: 3, content: 'Press release',         start: '2017-01-03'},
     {id: 4, content: 'Tweet 1-3 times/week',  start: '2017-01-04', end: '2017-01-30'}
     /*
