@@ -25,15 +25,19 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
   var date = new Date()
   var m = date.getMonth()
   var d = date.getDate()
-  var y = date.getYear()
+  var y = date.getFullYear()
 
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
+    {id: 1, content: 'Finish novel', start: '2017-01-01'},
+    {id: 2, content: 'Proofread', start: '2017-01-02'},
+    {id: 3, content: 'Press release', start: '2017-01-03' }
+
+    /*
     {id: 1, content: 'Finish novel', start: y + '-' + m + '-' + d },
     {id: 2, content: 'Proofread', start: y + '-' + m + '-' + (d + 1) },
     {id: 3, content: 'Press release', start: y + '-' + m + '-' + (d + 2) }
 
-    /*
     {id: 2, content: 'item 2', start: y + '-' + m + '-' + d },
     {id: 3, content: 'item 3', start: '2014-04-18'},
     {id: 4, content: 'item 4', start: '2014-04-16', end: '2014-04-19'},
