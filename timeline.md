@@ -40,7 +40,7 @@ var options =   {
 
 var innerWidth =  options.initialWidth - options.margin.left - options.margin.right;
 var innerHeight = options.initialHeight - options.margin.top - options.margin.bottom;
-var colorScale = d3.scale.category10();
+//var colorScale = d3.scale.category10();
 
 var vis = d3.select('#timeline')
   .append('svg')
