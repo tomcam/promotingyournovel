@@ -1,5 +1,6 @@
-theme: jekyll-theme-modernist
-
+# theme: jekyll-theme-modernist
+name: Promoting Your Novel 
+markdown: kramdown
 
 gems:
   - jekyll-sitemap                  # Generate sitemaps automatically
