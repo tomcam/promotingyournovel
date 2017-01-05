@@ -2,7 +2,7 @@
 
 ## Without selling your soul or spending a fortune
 
-![](images/promoting-your-novel-red.png]
+![](/images/promoting-your-novel-red.png]
 
 You've written your novel. 
 You're going to self-publish online, 
