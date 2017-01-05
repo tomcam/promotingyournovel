@@ -1,4 +1,4 @@
-# About PromotingYourNovel.com aka {{ page.title }}
+# About *Promoting Your Novel*
 
 You've written your novel. 
 You're going to self-publish ([why self-publish?](faq#why-self-publish)),
@@ -22,7 +22,7 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 The above is an H1
 
 ## Kramdown
-* [Quick Reference](https://kramdown.gettalong.org/)
+* [Quick Reference](https://kramdown.gettalong.org/quickref.html/)
 * [Syntax](https://kramdown.gettalong.org/syntax.html)
 
 ### GitHub pages
