@@ -1,4 +1,4 @@
-# About **Promoting Your Novel**
+# Promoting Your Novel: How to Get Started
 
 You've written your novel. 
 You're going to self-publish ([why self-publish?](faq#why-self-publish)),
