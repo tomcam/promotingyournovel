@@ -29,7 +29,7 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
     {id: 1, content: 'Finish novel', start: '1'},
-    {id: 1, content: 'Proofread', start: '2'}
+    {id: 2, content: 'Proofread', start: '2'}
     /*
     {id: 2, content: 'item 2', start: '2014-04-14'},
     {id: 3, content: 'item 3', start: '2014-04-18'},
