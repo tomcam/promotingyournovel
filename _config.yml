@@ -1,1 +1,5 @@
 theme: jekyll-theme-modernist
+
+# Generate sitemaps automatically
+gems:
+  - jekyll-sitemap
