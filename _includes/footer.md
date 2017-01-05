@@ -1,4 +1,2 @@
-## Footer here
-
-[About](about.md) [FAQ](faq.md)[Contact](contact.md) 
+[About](about.md) [FAQ](faq.md) [Contact](contact.md) 
 
