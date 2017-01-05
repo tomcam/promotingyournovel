@@ -23,7 +23,7 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 The above is an H1
 
 ## Kramdown
-* [Quick Reference](https://kramdown.gettalong.org/quickref.html/)
+* [Quick Reference](https://kramdown.gettalong.org/quickref.html)
 * [Syntax](https://kramdown.gettalong.org/syntax.html)
 
 ### GitHub pages
