@@ -2,7 +2,7 @@
 
 ## Without selling your soul or spending a fortune
 
-<img class="pure-img" src="/images/promoting-your-novel-red.png" alt="Promotingyournovel.com logo">
+<img class="pure-img" height=10em; src="/images/promoting-your-novel-red.png" alt="Promotingyournovel.com logo">
 
 You've written your novel. 
 You're going to self-publish online, 
