@@ -32,5 +32,6 @@ The above is an H1
 * [Templates](https://jekyllrb.com/docs/templates/) 
 * [Variables](https://jekyllrb.com/docs/variables/)
 * [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
+* [Jekyll Pages](https://jekyllrb.com/docs/pages/) describes clean URL requirements
 * [Minimal configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) 
 * [How I'm Using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
