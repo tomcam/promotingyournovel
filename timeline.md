@@ -38,7 +38,7 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
 
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
-    {id: 1, content: '<a href="/checklist/create-twitter-account/">Create Twitter Account</a>',  start: 'Day 1' },
+    {id: 1, content: '<a href="/checklist/create-twitter-account/">Create Twitter Account</a>',  start: '1' },
     {id: 2, content: '<a href="about">Proofread</a>',             start: '2'},
     {id: 3, content: 'Press release',         start: '3'},
     {id: 4, content: 'Tweet 1-3 times/week',  start: '4', end: '10'}
