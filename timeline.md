@@ -38,19 +38,17 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
 
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
+    {id: 1, content: '<a href="/checklist/create-twitter-account/">Create Twitter Account</a>',  start: '1' },
+    {id: 2, content: '<a href="about">Proofread</a>',             start: '2'},
+    {id: 3, content: 'Press release',         start: '3'},
+    {id: 4, content: 'Tweet 1-3 times/week',  start: '4', end: '10'}
+    /*
     {id: 1, content: '<a href="/checklist/create-twitter-account/">Create Twitter Account</a>',  start: today.addDays(2) },
     {id: 2, content: '<a href="about">Proofread</a>',             start: '2017-01-02'},
     {id: 3, content: 'Press release',         start: '2017-01-03'},
     {id: 4, content: 'Tweet 1-3 times/week',  start: '2017-01-04', end: '2017-01-30'}
-    /*
-    {id: 1, content: 'Finish novel', start: y + '-' + m + '-' + d },
-    {id: 2, content: 'Proofread', start: y + '-' + m + '-' + (d + 1) },
-    {id: 3, content: 'Press release', start: y + '-' + m + '-' + (d + 2) }
 
-    {id: 2, content: 'item 2', start: y + '-' + m + '-' + d },
-    {id: 3, content: 'item 3', start: '2014-04-18'},
-    {id: 4, content: 'item 4', start: '2014-04-16', end: '2014-04-19'},
-    {id: 5, content: 'item 5', start: '2014-04-25'},
+	{id: 5, content: 'item 5', start: '2014-04-25'},
     {id: 6, content: 'item 6', start: '2014-04-27', type: 'point'}
     */
   ]);
