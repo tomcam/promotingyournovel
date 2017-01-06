@@ -32,9 +32,9 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
   // DOM element where the Timeline will be attached
   var container = document.getElementById('visualization');
   var today = new Date()
-  var m = date.getMonth()
-  var d = date.getDate()
-  var y = date.getFullYear()
+  var m = today.getMonth()
+  var d = today.getDate()
+  var y = today.getFullYear()
 
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
