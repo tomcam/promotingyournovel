@@ -18,11 +18,7 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 * Timeline: [vis.js](http://visjs.org/docs/timeline/)
 * Pingdom [Website speed test](https://tools.pingdom.com/)
 
-# Pattern interrupt!
-
-The above is an H1
-
-## Kramdown
+### Kramdown
 * [Quick Reference](https://kramdown.gettalong.org/quickref.html)
 * [Syntax](https://kramdown.gettalong.org/syntax.html)
 
