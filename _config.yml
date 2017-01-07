@@ -2,6 +2,12 @@
 name: Promoting Your Novel 
 markdown: kramdown
 
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+url: http://www.promotingyournovel.com/
+
+# Probably not necessary with recent GitHub Pages version?
+permalink: pretty
+
 gems:
   - jekyll-sitemap                  # Generate sitemaps automatically
   - jekyll-feed                     # Generate RSS feed automatically
