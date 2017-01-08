@@ -4,6 +4,10 @@
 [Create a Twitter Account](create-twitter-account/)
 -->
 
+# Your Step-by-Step Publishing Checklist
+
+## Just do these in order at roughly the times shown. Pay attention to the dates for book promotion sites because you sometimes need to plan over a month ahead
+
 **40+ Days before publishing: Create a Bookbub partner account**  BookBub is for both readers and authors. You want to [Become a BookBub partner](https://partners.bookbub.com/users/sign_up).
 
 **30+ days before publishing [Create a Twitter Account](create-twitter-account)** and post at least every two days. Not sure what to discuss? How about
