@@ -3,9 +3,6 @@
 [Create a Twitter Account](create-twitter-account)
 [Create a Twitter Account](create-twitter-account/)
 -->
-<style>
-  .strong { color: red; }
-</style>
 
 ** 40+ Days before publishing: Create a Bookbub partner account  **  BookBub is for both readers and authors. You want to [Become a BookBub partner](https://partners.bookbub.com/users/sign_up).
 
