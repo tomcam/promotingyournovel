@@ -6,6 +6,8 @@ markdown: kramdown
 # Location of generated site. Basis for links in the RSS feed.
 url: http://www.promotingyournovel.com/
 
+baseurl: "/promotingyournovel"
+
 # Probably not necessary with recent GitHub Pages version?
 permalink: pretty
 
