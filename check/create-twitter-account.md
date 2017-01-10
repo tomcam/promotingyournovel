@@ -1,4 +1,4 @@
-# Create a Twitter account
+# Create a Twitter account  (file /check/create-twitter-account.md)
 
 Create an author account on [Twitter](https://www.twitter.com) as early as possible to establish
 a consistent media presence. It looks hinky otherwise. If your personal
