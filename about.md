@@ -19,6 +19,8 @@ Unable to nest URLs, say, in /checklist. **Look at browser status line for each 
 * [Create a twitter account](/checklist/create-twitter-account) Markup is `[Create a twitter account](/checklist/create-twitter-account)` **Best but still fails**
 * [Create a twitter account](/checklist/create-twitter-account.md) Markup is `[Create a twitter account](/checklist/create-twitter-account.md)`
 * [Create a twitter account](#/checklist/create-twitter-account.md) Markup is `[Create a twitter account](#/checklist/create-twitter-account.md)`
+* **Yet this nested-er one works!** * [Create a twitter account copied to deeper directory](#/checklist/checklist/create-twitter-account) Markup is `[Create a twitter account](#/checklist/checklist/create-twitter-account)`
+
 
 {% comment %} 
 
