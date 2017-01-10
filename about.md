@@ -16,8 +16,9 @@ writing than reinventing the wheel by revisiting whether SmashWords is better th
 
 Unable to nest URLs, say, in /checklist. **Look at browser status line for each one**. Examples:
 
+* [Create a twitter account](/checklist/create-twitter-account) Markup is `[Create a twitter account](/checklist/create-twitter-account)` **Best but still failing--others have directory problems**
+* [Create a twitter account](/checklist/create-twitter-account.md) Markup is `[Create a twitter account](/checklist/create-twitter-account.md)`
 * [Create a twitter account](checklist/create-twitter-account) Markup is `[Create a twitter account](checklist/create-twitter-account)`
-* [Create a twitter account](/checklist/create-twitter-account) Markup is `[Create a twitter account](/checklist/create-twitter-account)`
 * [Create a twitter account](checklist/create-twitter-account.html) Markup is `[Create a twitter account](checklist/create-twitter-account.html)`
 * [Create a twitter account](#/checklist/create-twitter-account.html) Markup is `[Create a twitter account](#checklist/create-twitter-account.html)`
 
