@@ -43,7 +43,7 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
     {id: 3, content: 'Press release',         start: today.addDays(3)},
     {id: 4, content: 'Tweet 1-3 times/week',  start: today.addDays(1), end: today.addDays(60)}
     /*
-    {id: 1, content: '<a href="/checklist/create-twitter-account/">Create Twitter Account</a>',  start: today.addDays(2) },
+    {id: 1, content: '<a href="/check/create-twitter-account/">Create Twitter Account</a>',  start: today.addDays(2) },
     {id: 2, content: '<a href="about">Proofread</a>',             start: '2017-01-02'},
     {id: 3, content: 'Press release',         start: '2017-01-03'},
     {id: 4, content: 'Tweet 1-3 times/week',  start: '2017-01-04', end: '2017-01-30'}
