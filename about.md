@@ -30,7 +30,7 @@ Unable to nest URLs in /checklist. **Look at browser status line for each one**.
 
 * [Create a twitter account](/check/create-twitter-account) Markup is `[Create a twitter account](/check/create-twitter-account)` **Works like a charm**
 * [Create a twitter account](/check/create-twitter-account.md) Markup is `[Create a twitter account](/check/create-twitter-account.md)`
-* Bonus: Linking to just the [check](/check/) directory properly lands on /check/index.md Markup is `[check](/check/)`
+* Bonus: Linking to just the [check](/check) directory properly lands on /check/index.md Markup is `[check](/check/)`
 
 
 {% comment %} 
