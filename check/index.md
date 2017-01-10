@@ -1,4 +1,4 @@
-# Your Step-by-Step Publishing Checklist
+# Your Step-by-Step Publishing Checklist (file /check/index.md)
 
 ## Just do these in order at roughly the times shown. Pay attention to the dates for book promotion sites because you sometimes need to plan over a month ahead
 
