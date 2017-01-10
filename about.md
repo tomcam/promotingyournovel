@@ -29,9 +29,9 @@ Unable to nest URLs in /checklist. **Look at browser status line for each one**.
 ### /check directory works!
 
 * [Create a twitter account](/check/create-twitter-account) Markup is `[Create a twitter account](/check/create-twitter-account)` **Works like a charm**
-* [Create a twitter account](/check/create-twitter-account.md) Markup is `[Create a twitter account](/check/create-twitter-account.md)` **Same as above but appending the .md fails**
+* [Create a twitter account](/check/create-twitter-account.md) Markup is `[Create a twitter account](/check/create-twitter-account.md)` **Fail--Same as above but appending the .md**
 * Bonus: Linking to just the [check](/check/) directory properly lands on /check/index.md Markup is `[check](/check/)`
-* Bonus: Linking to the [check](/check.md) file properly lands on /check/check.md Markup is `[check](/check.md)`
+* Bonus: Linking to the [check](/check.md) file can't see /check/check.md Markup is `[check](/check.md)`
 
 
 {% comment %} 
