@@ -12,6 +12,16 @@ It's an opinionated guide, meaning it makes a lot of decisions for you. I assume
 writing than reinventing the wheel by revisiting whether SmashWords is better than Kobo or whatever.
 
 
+## Broken things
+
+Unable to nest URLs, say, in /checklist. **Look at browser status line for each one**. Examples:
+
+* [Create a twitter account](checklist/create-twitter-account) Markup is `[Create a twitter account](checklist/create-twitter-account)`
+* [Create a twitter account](/checklist/create-twitter-account) Markup is `[Create a twitter account](/checklist/create-twitter-account)`
+* [Create a twitter account](checklist/create-twitter-account.html) Markup is `[Create a twitter account](checklist/create-twitter-account.html)`
+* [Create a twitter account](#/checklist/create-twitter-account.html) Markup is `[Create a twitter account](#checklist/create-twitter-account.html)`
+
+
 ## Created using
 
 * [PureCSS](http://purecss.io), [source](https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.1/pure.css)
