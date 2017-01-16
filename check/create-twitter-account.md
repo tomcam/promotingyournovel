@@ -1,7 +1,7 @@
-# Create a Twitter account  (file /check/create-twitter-account.md)
+# Create a Twitter account
 
 Create an author account on [Twitter](https://www.twitter.com) as early as possible to establish
-a consistent media presence. It looks hinky otherwise. If your personal
+a consistent media presence. Doing it too lake looks like craven commercialism. If your personal
 Twitter account is light on controversy feel free to use it. 
 
 ## Help! I don't know what to tweet about!
