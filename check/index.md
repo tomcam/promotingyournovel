@@ -1,17 +1,12 @@
-# Your Step-by-Step Publishing Checklist (file /check/index.md)
+# Your Step-by-Step Publishing Checklist
 
-## Just do these in order at roughly the times shown. Pay attention to the dates for book promotion sites because you sometimes need to plan over a month ahead
+**45 Days before publishing: Create a Bookbub partner account**  BookBub is for both readers and authors. You want to [Become a BookBub partner](https://partners.bookbub.com/users/sign_up).
 
-**40+ Days before publishing: Create a Bookbub partner account**  BookBub is for both readers and authors. You want to [Become a BookBub partner](https://partners.bookbub.com/users/sign_up).
+**44 Days before publishing: Set up a BookBub promotion** Start here: [Submit a New Deal](https://partners.bookbub.com/).
 
-**30+ days before publishing [Create a Twitter Account](create-twitter-account)** and post at least every two days. Not sure what to discuss? How about
+**35 days before publishing [Create a Twitter Account](create-twitter-account)** and post at least every two days. 
 
-* Books you've read recently
-* New authors you've learned about
-* Profiles of your characters
-* Answers from readers
-
-**30+ Days before publishing: Set up a BookBub promotion** Start here: [Submit a New Deal](https://partners.bookbub.com/).
+**34 day before publishing [Proofread](/check/proofread) your book.
 
 ### Further reading
 
