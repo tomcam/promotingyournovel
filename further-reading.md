@@ -15,4 +15,4 @@ WriteToDone: [10 Ways to Promote Your Book on Your Blog](http://writetodone.com/
 
 Amy Collins: [How to Create an Online Press Kit](http://www.newshelves.com/2017/01/13/how-to-create-an-online-press-kit/)
 
-Amy Collins: [Book Publicity Do's and Don't's for Indie Authors](https://www.bookworks.com/2016/10/book-publicity-dos-donts-for-indie-authors/#sthash.vZF0RPkA.dpuf)
+Amy Collins: [Book Publicity Do's and Don'ts for Indie Authors](https://www.bookworks.com/2016/10/book-publicity-dos-donts-for-indie-authors/#sthash.vZF0RPkA.dpuf)
