@@ -12,3 +12,5 @@ Author Unlimited: [50 Surprisingly Simple Ways to Promote Your Book](http://auth
 The Creative Pen: [7 Tips To Help Promote Your First Self-Published Book](http://www.thecreativepenn.com/2014/04/22/promote-first-book/)
 
 WriteToDone: [10 Ways to Promote Your Book on Your Blog](http://writetodone.com/10-ways-promote-your-book/)
+
+Amy Collins: [How to Create an Online Press Kit](http://www.newshelves.com/2017/01/13/how-to-create-an-online-press-kit/)
