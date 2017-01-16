@@ -39,18 +39,9 @@ Otherwise, you'll hurt yourself by coming off as clueless and purely self-promot
   // Create a DataSet (allows two way data-binding)
   var items = new vis.DataSet([
     {id: 1, content: '<a href="/check/create-twitter-account/">Create Twitter Account</a>',  start: today.addDays(1) },
-    {id: 2, content: '<a href="about">Proofread</a>',             start: today.addDays(2)},
+    {id: 2, content: '<a href="/check/proofread/">Proofread</a>',             start: today.addDays(2)},
     {id: 3, content: 'Press release',         start: today.addDays(3)},
     {id: 4, content: 'Tweet 1-3 times/week',  start: today.addDays(1), end: today.addDays(60)}
-    /*
-    {id: 1, content: '<a href="/check/create-twitter-account/">Create Twitter Account</a>',  start: today.addDays(2) },
-    {id: 2, content: '<a href="about">Proofread</a>',             start: '2017-01-02'},
-    {id: 3, content: 'Press release',         start: '2017-01-03'},
-    {id: 4, content: 'Tweet 1-3 times/week',  start: '2017-01-04', end: '2017-01-30'}
-
-	{id: 5, content: 'item 5', start: '2014-04-25'},
-    {id: 6, content: 'item 6', start: '2014-04-27', type: 'point'}
-    */
   ]);
 
   // Configuration for the Timeline
