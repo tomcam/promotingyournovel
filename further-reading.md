@@ -1,7 +1,20 @@
+# Industry insiders
+
+Agents, publishers, and editors hang out at [Manuscript Wish List](http://mswishlist.com/) and let you know exactly what they want
+
+Although the main site is paid, Publishers Marketplace has a free [PublishersLunch](http://www.publishersmarketplace.com/lunch/subscribe.html) daily newsletter.
+
+# Paid resources
+
+[Publishers Marketplace](http://www.publishersmarketplace.com/)
+
+
 # Further reading
 
 The whole point of this site is to give you an easy-to-follow checklist of the least you need to publish your book.
 There's a lot else you can do. If you're ready to do more, here are some additional ways to extend your reach.
+
+Jane Friedman: [How to Find a Literary Agent for Your Book](https://janefriedman.com/find-literary-agent/)
 
 Huffington Post: [How Can I Promote My Novel for Free?](http://www.huffingtonpost.com/david-kudler/how-can-i-promote-my-book-for-free_b_6843190.html)
 
