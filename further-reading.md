@@ -9,6 +9,10 @@ Although the main site is paid, Publishers Marketplace has a free [PublishersLun
 [Publishers Marketplace](http://www.publishersmarketplace.com/)
 
 
+# Online tools
+
+[Novel Rank](https://www.novelrank.com) is an awesome tool that lets you track the sales of a particular book, hottest categories, worst categories, and other information particularly interesting to self publishers. There are both free and pro versions.
+
 # Further reading
 
 The whole point of this site is to give you an easy-to-follow checklist of the least you need to publish your book.
