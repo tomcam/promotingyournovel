@@ -12,7 +12,7 @@ The easiest one to start with is [MailChimp](https://mailchimp.com) because it g
 ### Why not just run your own mailing list from your email account?
 
 Modern free email services such as GMail are beginning to support pretty good-sized mailing lists,
-so why not use them? Plenthy of reasons!
+so why not use them? Plenty of reasons!
 
 * **Privacy** Many people forget to use the Bcc: (blind copy) feature for email groups, which means that everyone mailed 
 has access to everyone else's email address. That's legally A Bad Thing.
