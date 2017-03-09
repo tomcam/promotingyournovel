@@ -37,7 +37,7 @@ When you create an eBook using Scrivener, you're probably used to steps that loo
 
 Click the `Compile` button, and a few moments later you have a single eBook file ready to submit to Amazon (in this example).
 
-### Scrivener can't compile eBooks from MultiMarkdown!
+### Scrivener can't compile eBooks from MultiMarkdown so there are extra requirements
 
 Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to compile to an intermediate format such as HTML, RTF, or the OpenOffice/LibreOffice word processor file format, which is .ODT. Then you need a third-party converter such as [pandoc](http://pandoc.org) to translate from the intermediate format to an eBook format such as .mobi or ePub. The workflow then becomes something like this:
 
@@ -47,7 +47,7 @@ Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to compil
 * From the `Format as` dropdown, choose `Custom`.
 * From the `Compile for` dropdown, choose `MultiMarkdown -> Web Page (.html)` -- you won't see this unless you've already installed MultiMarkdown
 * Run the resultant HTML file through pandoc to create the actual ebook--a .mobi or ePub file
-
+* You can see how it will look when published using the [Kindle Previewer](https://kdp.amazon.com/help?topicId=A3IWA2TQYMZ5J6#kindlepreviewer)
 
 
 ## Extra requirements for MultiMarkdown
