@@ -6,7 +6,7 @@
 
 **35 days before publishing [Create a Twitter Account](create-twitter-account)** and post at least every two days. 
 
-**34 day before publishing [Proofread](/check/proofread) your book.
+**34 days before publishing [Proofread](/check/proofread) your book.**
 
 ### Further reading
 
