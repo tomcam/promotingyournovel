@@ -1,7 +1,8 @@
 # Using Scrivener with MultiMarkdown (MMD) files
 
 This is a pretty specialized article for people who wrote, or plan to write, their novel using 
-[Scrivener](https://www.literatureandlatte.com/scrivener.php) and MultiMarkdown files (which end in `.mmd`). 
+[Scrivener](https://www.literatureandlatte.com/scrivener.php) and MultiMarkdown files (which end in `.mmd`). Expect this to get technical, right down to running programs from your computer's command line. If this all sounds like gobbledegook, now's a good time to read another section.
+
 What follows is a tiny, inadequate overview of how MultiMarkdown works and why you might wish to use it. If you already know why you're here, feel free to skip ahead to [Scrivener's workflow is different with MultiMarkdown][ScrivenerMMDWorkflow].
 
 MultiMarkdown files are nothing but plain, slightly ugly-looking text files that look something like this:
@@ -39,7 +40,7 @@ Click the `Compile` button, and a few moments later you have a single eBook file
 
 ### Scrivener can't compile eBooks from MultiMarkdown so there are extra requirements
 
-Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to compile to an intermediate format such as HTML, RTF, or the OpenOffice/LibreOffice word processor file format, which is .ODT. Then you need a third-party converter such as [pandoc](http://pandoc.org) to translate from the intermediate format to an eBook format such as .mobi or ePub. The workflow then becomes something like this:
+Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to compile to an intermediate format such as HTML, RTF, or the OpenOffice/LibreOffice word processor file format, which is .ODT. Then you need a third-party converter from the command line such as [pandoc](http://pandoc.org) to translate from the intermediate format to an eBook format such as .mobi or ePub. The workflow then becomes something like this:
 
 * Install [Fletcher Penny's MultiMarkdown](http://fletcherpenney.net/multimarkdown/) (details follow)
 * Install [pandoc](http://pandoc.org/installing.html) (details follow)
@@ -56,7 +57,7 @@ Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to compil
 
 Here are some of the sources I used to write this section:
 
-[Jeremy Lee James: Scrivener - How To Compile With Style](http://jeremyleejames.com/scrivener-how-to-compile-with-style-tutorial/)
+[Jeremy Lee James: Scrivener - How To Compile With Style](http://jeremyleejames.com/scrivener-how-to-compile-with-style-tutorial/) By far the most useful, complete, and technically oriented blog post on this subject. This page does complements but does not replace it. However, it only goes so far as conversion to HTML. Jeremy James does not address conversion of the HTML output to an eBook format.
 
 [Coverting a book to MultiMarkdown](http://support.fletcherpenney.net/discussions/problems/690-how-can-i-convert-my-book-to-multimarkdown-mmd) has a bit of useful information on exporting to MultiMarkdown.
 
