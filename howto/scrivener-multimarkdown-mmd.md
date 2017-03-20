@@ -58,6 +58,8 @@ Here are some of the sources I used to write this section:
 
 [Jeremy Lee James: Scrivener - How To Compile With Style](http://jeremyleejames.com/scrivener-how-to-compile-with-style-tutorial/)
 
+[Coverting a book to MultiMarkdown](http://support.fletcherpenney.net/discussions/problems/690-how-can-i-convert-my-book-to-multimarkdown-mmd) has a bit of useful information on exporting to MultiMarkdown.
 
+[Kindle Previewer at Kindle Tools and Resources](https://kdp.amazon.com/help?topicId=A3IWA2TQYMZ5J6#kindlepreviewer) Download Kindle Previewer and find all of Amazon's apps used to create eBooks on this page. There's some pretty amazing stuff here and it's all free.
 
 
