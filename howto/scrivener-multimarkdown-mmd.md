@@ -52,6 +52,11 @@ Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to compil
 
 ## Extra requirements for MultiMarkdown
 
+## Further reading
+
+Here are some of the sources I used to write this section:
+
+[Jeremy Lee James: Scrivener - How To Compile With Style](http://jeremyleejames.com/scrivener-how-to-compile-with-style-tutorial/)
 
 
 
