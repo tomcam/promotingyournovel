@@ -1,7 +1,7 @@
 # Using Scrivener with MultiMarkdown (MMD) files
 
 This is a pretty specialized article for people who wrote, or plan to write, their novel using 
-[Scrivener](https://www.literatureandlatte.com/scrivener.php) and MultiMarkdown files (which end in `.mmd`). Expect this to get technical, right down to running programs from your computer's command line. If this all sounds like gobbledegook, now's a good time to read another section.
+[Scrivener](https://www.literatureandlatte.com/scrivener.php) and MultiMarkdown files (which end in `.mmd`) and who want to export them to .mobi format for Kindle. Expect this to get technical, right down to running programs from your computer's command line. If this all sounds like gobbledegook, now's a good time to read another section.
 
 What follows is a tiny, inadequate overview of how MultiMarkdown works and why you might wish to use it. If you already know why you're here, feel free to skip ahead to [Scrivener's workflow is different with MultiMarkdown][ScrivenerMMDWorkflow].
 
@@ -40,14 +40,15 @@ Click the `Compile` button, and a few moments later you have a single eBook file
 
 ### Scrivener can't compile eBooks from MultiMarkdown so there are extra requirements
 
-Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to compile to an intermediate format such as HTML, RTF, or the OpenOffice/LibreOffice word processor file format, which is .ODT. Then you need a third-party converter from the command line such as [pandoc](http://pandoc.org) to translate from the intermediate format to an eBook format such as .mobi or ePub. The workflow then becomes something like this:
+Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to export to MultiMarkdown format. Then you need a third-party converter from the command line such as [pandoc](http://pandoc.org) to translate from the MultiMarkdown files to ePub format, which is used by most eBook publishers other than Amazon. Finally, you use Amazon's Kindlegen to convert from ePub format to .mobi, which is the finished version used by Amazon's Kindle readers. The workflow then becomes something like this:
 
 * Install [Fletcher Penny's MultiMarkdown](http://fletcherpenney.net/multimarkdown/) (details follow)
 * Install [pandoc](http://pandoc.org/installing.html) (details follow)
-* From the `File` menu, choose `Compile`.
-* From the `Format as` dropdown, choose `Custom`.
-* From the `Compile for` dropdown, choose `MultiMarkdown -> Web Page (.html)` -- you won't see this unless you've already installed MultiMarkdown
-* Run the resultant HTML file through pandoc to create the actual ebook--a .mobi or ePub file
+* From the `File` menu, choose `Compile`
+* From the `Format as` dropdown, choose `Custom`
+* From the `Compile for` dropdown, choose `MultiMarkdown`. This option only exists if you've already installed MultiMarkdown. You may wish to give it a name ending with with .mmd, such as `mynovel.mmd`
+* Run the resultant MMD file through pandoc to create the the ePub file
+* Run the ePub file through KindleGen to convert from the ePub format to .mobi, which is what Kindle readers use.
 * You can see how it will look when published using the [Kindle Previewer](https://kdp.amazon.com/help?topicId=A3IWA2TQYMZ5J6#kindlepreviewer)
 
 
