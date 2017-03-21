@@ -42,14 +42,16 @@ Click the `Compile` button, and a few moments later you have a single eBook file
 
 Scrivener doesn't yet create eBooks from MultiMarkdown files. You have to export to MultiMarkdown format. Then you need a third-party converter from the command line such as [pandoc](http://pandoc.org) to translate from the MultiMarkdown files to ePub format, which is used by most eBook publishers other than Amazon. Finally, you use Amazon's Kindlegen to convert from ePub format to .mobi, which is the finished version used by Amazon's Kindle readers. The workflow then becomes something like this:
 
-* Install [Fletcher Penny's MultiMarkdown](http://fletcherpenney.net/multimarkdown/) (details follow)
+* Install [Fletcher Penny's MultiMarkdown](http://fletcherpenney.net/multimarkdown/). This only needs to be done once. Details follow)
 * Install [pandoc](http://pandoc.org/installing.html) (details follow)
 * From the `File` menu, choose `Compile`
 * From the `Format as` dropdown, choose `Custom`
 * From the `Compile for` dropdown, choose `MultiMarkdown`. This option only exists if you've already installed MultiMarkdown. You may wish to give it a name ending with with .mmd, such as `mynovel.mmd`
 * Run the resultant MMD file through pandoc to create the the ePub file
 * Run the ePub file through KindleGen to convert from the ePub format to .mobi, which is what Kindle readers use.
-* You can see how it will look when published using the [Kindle Previewer](https://kdp.amazon.com/help?topicId=A3IWA2TQYMZ5J6#kindlepreviewer)
+* Optionally, see how it will look when published using the [Kindle Previewer](https://kdp.amazon.com/help?topicId=A3IWA2TQYMZ5J6#kindlepreviewer). Kindle Previewer adds two additional steps:
+* Install Kindle Previewer, and if necessary,
+* Install the Java SE 6 runtime (required for some later versions of MacOS; see (https://www.amazon.com/gp/feature.html?docId=1000765261) if that's still a requirement. The Java SE 6 runtime is a program the Kindle Previewer requires to run properly. 
 
 
 ## Extra requirements for MultiMarkdown
