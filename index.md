@@ -16,7 +16,7 @@ Had enough chatter? Great! Skip the rest of this page. Knock each item off the [
 
 This site is free. It's a service for people who don't want to reinvent the wheel. Learning all this stuff was a pain, so why not bottle it and give it away?
 
-Most of the methods described are free, but timing is sometimes important. For example, you will assuredly want to take advantage of [KDP Select](check/join-kdp-select)'s [Free Book Promotions](https://kdp.amazon.com/help/topic/A34IQ0W14ZKXM9). There are plenty of other authors taking advantage of this marketing bonanza, so you'll want to amplify it by coordinating with websites that promote these giveaways. Some of them require at least 30 days' advanance notice, so you have to plan ahead.
+Most of the methods described are free, but timing is sometimes important. For example, you will assuredly want to take advantage of [KDP Select](check/join-kdp-select)'s [Free Book Promotions](https://kdp.amazon.com/help/topic/A34IQ0W14ZKXM9). There are plenty of other authors doing the same. You'll want to amplify it by coordinating with websites that promote these giveaways. Some of them require at least 30 days' advanance notice, so you have to plan ahead.
 
 A few things cost money (none of it goes to me). You can skip them if you wish.
 
