@@ -8,7 +8,7 @@
 
 **34 days before publishing** [Proofread](/check/proofread) your book.
 
-**33 days before publishing** Join [KDP Select](join-kdp-select) so you can get the sweet, sweet publicity and reviews by doing a free giveaway.
+**33 days before publishing** Join [KDP Select](join-kdp-select) so you can get sweet, sweet publicity and verified reader reviews by doing a free giveaway.
 
 **Announce Your KDP Select Free Promotion on Reddit's [r/FreeEBOOKs](reddit-freeebooks)**
 
