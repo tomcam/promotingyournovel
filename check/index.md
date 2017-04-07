@@ -10,6 +10,8 @@
 
 **33 days before publishing** Join [KDP Select](join-kdp-select) so you can get sweet, sweet publicity and verified reader reviews by doing a free giveaway.
 
+**20 days before publishing** Join the [Kboards Writer's Cafe](kboards) and coordinate with other authors in your niche.
+
 **Announce Your KDP Select Free Promotion on Reddit's [r/FreeEBOOKs](reddit-freeebooks)**
 
 ### Further reading
