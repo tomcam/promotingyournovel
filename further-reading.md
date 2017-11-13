@@ -34,4 +34,6 @@ Amy Collins: [How to Create an Online Press Kit](http://www.newshelves.com/2017/
 
 Amy Collins: [Book Publicity Do's and Don'ts for Indie Authors](https://www.bookworks.com/2016/10/book-publicity-dos-donts-for-indie-authors/#sthash.vZF0RPkA.dpuf)
 
+Reddit: [Getting ready to publish on Amazon. What's wrong with this timeline?](https://www.reddit.com/r/selfpublish/comments/77gri5/getting_ready_to_publish_on_amazon_whats_wrong/)
+
 For the technically oriented: Amazon's [List of supported HTML tags and CSS elements](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729901)
